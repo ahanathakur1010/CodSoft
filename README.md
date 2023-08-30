@@ -1,5 +1,3 @@
 # CODSOFT
 Java Programming Internship offered by CODSOFT.
-Task 1 is Number Game(GuessTheNumber).
-Task 2 is Student Grade Calculator.
-Task 3 is ATM interface(AtmInterface,UserBankDetails,Main).
+Task 1 is Number Game(GuessTheNumber),Task 2 is Student Grade Calculator,Task 3 is ATM interface(AtmInterface,UserBankDetails,Main).
